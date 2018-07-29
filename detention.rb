@@ -10,6 +10,7 @@ class Detention
     
     def add_student(student)
       @students.push(student)  
+    end 
 
 
 end
